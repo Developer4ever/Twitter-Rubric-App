@@ -57,11 +57,3 @@ HTML/CSS for structure and styling.
 
 6. Author
 This project was developed by Developer4ever.
-
-### Steps to save it as `README.txt`:
-1. Copy the content above.
-2. Open any text editor (Notepad, VS Code, etc.).
-3. Paste the content into the editor.
-4. Save the file as `README.txt` in your project folder.
-
-Let me know if you need any further adjustments!
