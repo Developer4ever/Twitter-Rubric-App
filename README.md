@@ -1,5 +1,3 @@
-csharp
-Copy code
 # Twitter Rubric Application
 
 ## Overview
@@ -19,52 +17,51 @@ This is a simple web application that allows users to review their Twitter follo
 1. Clone the repository:
    ```bash
    git clone https://github.com/Developer4ever/twitter-rubric-app.git
-Navigate into the project directory:
 
-bash
-Copy code
-cd twitter-rubric-app
-Install the required dependencies (if any):
+   Navigate into the project directory:
+   cd twitter-rubric-app
 
-bash
-Copy code
-npm install
-Start the project (if using a local server setup):
+2. Install the required dependencies (if any):
 
-bash
-Copy code
-npm start
-Open the index.html file in your browser to use the application.
+   ```bash
+   Copy code
+   npm install
+
+3. Start the project (if using a local server setup):
+
+   ```bash
+   Copy code
+   npm start
+
+4. Open the index.html file in your browser to use the application.
 
 Technologies Used
 AngularJS for the frontend logic and data binding.
 Bootstrap for responsive design.
 HTML/CSS for structure and styling.
-Project Structure
-bash
-Copy code
-/twitter_rubric_app
-│
-├── /assets
-│   ├── /css
-│   │   └── style.css          # Custom styles for the application
-│   └── /js
-│       └── app.js             # AngularJS controller logic
-│
-├── index.html                  # Main HTML file
-├── README.txt                  # Project overview (this file)
-└── package.json                # Project dependencies (if applicable)
-Author
+
+5. Project Structure
+
+   ```bash
+   /twitter_rubric_app
+   │
+   ├── /assets
+   │   ├── /css
+   │   │   └── style.css          # Custom styles for the application
+   │   └── /js
+   │       └── app.js             # AngularJS controller logic
+   │
+   ├── index.html                  # Main HTML file
+   ├── README.txt                  # Project overview (this file)
+   └── package.json                # Project dependencies (if applicable)
+
+6. Author
 This project was developed by Developer4ever.
 
-less
-Copy code
+### Steps to save it as `README.txt`:
+1. Copy the content above.
+2. Open any text editor (Notepad, VS Code, etc.).
+3. Paste the content into the editor.
+4. Save the file as `README.txt` in your project folder.
 
-3. **Save the file** with the name `README.txt`.
-
-Let me know if you need further help! &#8203;:contentReference[oaicite:0]{index=0}&#8203;
-
-
-
-
-
+Let me know if you need any further adjustments!
