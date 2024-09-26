@@ -1,0 +1,45 @@
+.user-card {
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.user-card .card-header {
+    font-weight: bold;
+    font-size: 1.2em;
+    background-color: #f8f9fa;
+    padding: 10px;
+}
+
+.user-card .card-body .card-text {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.user-card .card-body .card-label {
+    font-size: 0.9em;
+    color: #6c757d;
+}
+
+.user-card .btn-danger {
+    font-size: 0.9em;
+}
+
+.img-thumbnail {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    margin-right: 10px;
+}
+
+@media (max-width: 576px) {
+    .user-card .card-body .card-text {
+        font-size: 1.2em;
+    }
+    
+    .user-card .card-body .card-label {
+        font-size: 0.8em;
+    }
+}
